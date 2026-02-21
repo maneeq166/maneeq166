@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <style>
+    .t-f {
+      font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+      font-size: 18px;
+    }
+    .t-c {
+      fill: #58a6ff;
+      animation: t-b 1s step-end infinite;
+    }
+    @keyframes t-b {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <rect width="1200" height="320" fill="#0d1117" />
+
+  <rect x="60" y="32" width="1080" height="256" rx="8" fill="#010409" stroke="#30363d" stroke-width="2" />
+
+  <clipPath id="t-clip">
+    <rect x="60" y="32" width="1080" height="28" rx="8" />
+  </clipPath>
+  <rect x="60" y="32" width="1080" height="28" fill="#161b22" clip-path="url(#t-clip)" />
+  
+  <rect x="60" y="46" width="1080" height="14" fill="#161b22" />
+
+  <circle cx="80" cy="46" r="6" fill="#ff5f56" />
+  <circle cx="100" cy="46" r="6" fill="#ffbd2e" />
+  <circle cx="120" cy="46" r="6" fill="#27c93f" />
+
+  <g class="t-f" transform="translate(80, 96)">
+    
+    <text x="0" y="0">
+      <tspan fill="#58a6ff" font-weight="bold">&gt;</tspan> 
+      <tspan fill="#8b949e" x="20">whoami</tspan> 
+      <tspan fill="#c9d1d9" x="140">Mohammad Aneeq</tspan>
+    </text>
+    
+    <text x="0" y="29">
+      <tspan fill="#58a6ff" font-weight="bold">&gt;</tspan> 
+      <tspan fill="#8b949e" x="20">age</tspan> 
+      <tspan fill="#c9d1d9" x="140">18</tspan>
+    </text>
+
+    <text x="0" y="58">
+      <tspan fill="#58a6ff" font-weight="bold">&gt;</tspan> 
+      <tspan fill="#8b949e" x="20">education</tspan> 
+      <tspan fill="#c9d1d9" x="140">Jamia Millia Islamia</tspan>
+    </text>
+
+    <text x="0" y="86">
+      <tspan fill="#58a6ff" font-weight="bold">&gt;</tspan> 
+      <tspan fill="#8b949e" x="20">role</tspan> 
+      <tspan fill="#c9d1d9" x="140">Full Stack Developer (MERN)</tspan>
+    </text>
+
+    <text x="0" y="115">
+      <tspan fill="#58a6ff" font-weight="bold">&gt;</tspan> 
+      <tspan fill="#8b949e" x="20">projects</tspan> 
+      <tspan fill="#c9d1d9" x="140">Jamia Connect, PathPilot</tspan>
+    </text>
+
+    <text x="0" y="144">
+      <tspan fill="#58a6ff" font-weight="bold">&gt;</tspan> 
+      <tspan fill="#8b949e" x="20">stack</tspan> 
+      <tspan fill="#c9d1d9" x="140">MongoDB, Express, React, Node.js</tspan>
+    </text>
+
+    <text x="0" y="173">
+      <tspan fill="#58a6ff" font-weight="bold">&gt;</tspan> 
+      <tspan fill="#8b949e" x="20">status</tspan> 
+      <tspan fill="#c9d1d9" x="140">building and learning</tspan>
+    </text>
+
+    <rect x="372" y="157" width="11" height="22" class="t-c" />
+    
+  </g>
+</svg>

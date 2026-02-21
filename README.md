@@ -1,83 +1,9 @@
 # 💫 About Me:
 I'm Mohammad Aneeq, an 18-year-old student at Jamia Millia Islamia and a full-stack developer working mainly with the MERN stack. I’ve built a few client projects and some personal projects while learning, including Jamia Connect, a campus platform for students. Right now, I’m also working on PathPilot. Most of my time goes into coding, understanding how things work, and improving step by step. I started development by experimenting and building small things, and over time moved to more complete applications. I’m currently focused on learning backend properly and continuing to build real projects as I grow.
 
-<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
-
-<style>
-.cursor {
-  animation: blink 1s step-end infinite;
-}
-@keyframes blink {
-0%, 100% { opacity: 1; }
-50% { opacity: 0; }
-}
-/* Define font family here for clean usage */
-text {
-font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
-font-size: 18px;
-}
-</style>
-
-<rect width="1200" height="320" fill="#0d1117"/>
-
-<g transform="translate(60, 32)">
-
-<defs>
-  <clipPath id="terminal-mask">
-    <rect width="1080" height="256" rx="8" />
-  </clipPath>
-</defs>
-
-<g clip-path="url(#terminal-mask)">
-  <rect width="1080" height="256" fill="#010409"/>
-  
-  <rect width="1080" height="28" fill="#161b22"/>
-
-  <g transform="translate(20, 14)">
-    <circle cx="0" r="6" fill="#ff5f56"/>
-    <circle cx="20" r="6" fill="#ffbd2e"/> <circle cx="40" r="6" fill="#27c93f"/>
-  </g>
-</g>
-
-<rect width="1080" height="256" rx="8" fill="none" stroke="#30363d" stroke-width="2"/>
-
-<g transform="translate(20, 48)">
-  <text x="0" y="18">
-    <tspan fill="#58a6ff">&gt;</tspan>
-    <tspan fill="#8b949e" dx="10">whoami</tspan>
-    <tspan fill="#c9d1d9" dx="10">Mohammad Aneeq</tspan>
-    
-    <tspan x="0" dy="1.6em" fill="#58a6ff">&gt;</tspan>
-    <tspan fill="#8b949e" dx="10">age</tspan>
-    <tspan fill="#c9d1d9" dx="10">18</tspan>
-
-    <tspan x="0" dy="1.6em" fill="#58a6ff">&gt;</tspan>
-    <tspan fill="#8b949e" dx="10">education</tspan>
-    <tspan fill="#c9d1d9" dx="10">Jamia Millia Islamia</tspan>
-
-    <tspan x="0" dy="1.6em" fill="#58a6ff">&gt;</tspan>
-    <tspan fill="#8b949e" dx="10">role</tspan>
-    <tspan fill="#c9d1d9" dx="10">Full Stack Developer (MERN)</tspan>
-
-    <tspan x="0" dy="1.6em" fill="#58a6ff">&gt;</tspan>
-    <tspan fill="#8b949e" dx="10">projects</tspan>
-    <tspan fill="#c9d1d9" dx="10">Jamia Connect, PathPilot</tspan>
-
-    <tspan x="0" dy="1.6em" fill="#58a6ff">&gt;</tspan>
-    <tspan fill="#8b949e" dx="10">stack</tspan>
-    <tspan fill="#c9d1d9" dx="10">MongoDB, Express, React, Node.js</tspan>
-
-    <tspan x="0" dy="1.6em" fill="#58a6ff">&gt;</tspan>
-    <tspan fill="#8b949e" dx="10">status</tspan>
-    <tspan fill="#c9d1d9" dx="10">building and learning</tspan>
-  </text>
-
-  <rect x="345" y="192" width="11" height="22" fill="#58a6ff" class="cursor"/>
-</g>
-
-
-</g>
-</svg>
+<div align="center">
+<img src="terminal.svg" width="100%" alt="Mohammad Aneeq Terminal Profile" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-aneeq/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MohammadAn62616) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aneeqmohd1233@gmail.com) 
